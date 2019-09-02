@@ -29,6 +29,8 @@ pip install opencv-python
 3. 挑战：参考文档完成人脸识别
 
 # VSC安装
+# GithubDesktop安装
 
 # 20190909练习
 1. 复习：利用vsc运行python打开一张图程序
+2. 基础：队友在github上传一张图，利用vsc pull 得到图，然后显示
