@@ -17,3 +17,9 @@ timeout = 6000
 # OpenCV 安装
 打开cmd  或 powershell  
 pip install opencv-python
+
+# 20190902练习
+
+## 用OpenCV打开一张图，显示出来
+## 利用 img[0:50,0:50]=img[100:150,100:150] 将图片中间内容拷贝到左上角
+
