@@ -1,0 +1,4 @@
+if(input.gatkey(keycode.space))
+    {
+    transform.translate(0.1f,0,0);
+    }
