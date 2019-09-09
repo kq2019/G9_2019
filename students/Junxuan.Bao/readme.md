@@ -12,6 +12,11 @@
     *  peopleResult.png:人脸识别结果
     *  haarcascade_frontalface_alt2.xml:opencv人脸识别数据文件
 
+* 20190909
+    *  mind.py:基础任务主运行文件
+    *  mind2.py:进阶任务主运行文件
+    *  mind.jpg:示例照片
+
 
 ## 联系方式
 
