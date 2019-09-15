@@ -38,9 +38,11 @@ pip install opencv-python
 4.挑战：9个矩形都要有不同颜色，线宽，实心空心
 
 # 20190916练习:利用循环制作棋盘
-讲解：vsc配置本地路径
-![](https://github.com/kq2019/G9_2019/blob/master/vscfix_01.JPG)
-![]()
+
+讲解：vsc配置本地路径  
+![](https://github.com/kq2019/G9_2019/blob/master/vscfix_01.JPG)  
+![](https://github.com/kq2019/G9_2019/blob/master/vscfix_02.JPG)  
+  
 1. 复习：for 循环打印九宫格格子坐标  (0,0)  (0,1) (0,2) (1,0) .......
 2. 基础：利用for循环制作左右两个棋盘
 3. 进阶：棋盘格子里面统一画圆
