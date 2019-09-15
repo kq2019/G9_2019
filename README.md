@@ -39,7 +39,7 @@ pip install opencv-python
 
 # 20190916练习:利用循环制作棋盘
 讲解：vsc配置本地路径
-![]()
+![](https://github.com/kq2019/G9_2019/blob/master/vscfix_01.JPG)
 ![]()
 1. 复习：for 循环打印九宫格格子坐标  (0,0)  (0,1) (0,2) (1,0) .......
 2. 基础：利用for循环制作左右两个棋盘
