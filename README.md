@@ -43,3 +43,5 @@ pip install opencv-python
 2. 基础：利用for循环制作左右两个棋盘
 3. 进阶：棋盘格子里面统一画圆
 4. 挑战：棋盘格子里统一同时画圆和X
+
+https://gartic.io/055ZrLec
