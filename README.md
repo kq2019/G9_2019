@@ -52,11 +52,12 @@ https://gartic.io/055ZrLec
 
 # 20190916练习：利用二维列表表示棋盘
 讲解：列表与二维列表  
-打开idle  
+打开idle命令行模式
 a=[0,1,2]  
 b=[10,11,12]  
 c=[0,1,2]  
 chessboard=[a,b,c]  
+chessboard  
 print(chessboard)  
 二维列表初始化  
 chessboard=[[0,1,0],[0,2,0],[1,0,0]]  
